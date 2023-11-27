@@ -5,4 +5,4 @@ Masuk ke terminal Windows 10 atau Linux <br>
 git clone https://github.com/moh-ariful/streamlit-chatbot-gpt4.git <br>
 Lalu jalankan perintah -> pip install -r requirements.txt <br>
 Apabila di Linux -> pip3 install -r requirements.txt <br>
-Jalankan di terminal dengan perintah -> streamlit run chatbot_app.py <br>
+Siap jalankan aplikasi di terminal dengan perintah -> streamlit run chatbot_app.py <br>
